@@ -30,3 +30,9 @@
 #links
 naa gurinchi teliyali ante [google]
 (https://www.google.com)
+
+s.no|name|marks|
+------|-----|----
+1|aaa|80
+2|bbb|93
+3|ccc|59
